@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'helvetics neue';
+}
+html,body{
+  height: 100%;
+  width: 100%;
+}
+
+.nav{
+  display: flex;
+  background-color: lightseagreen;
+  justify-content: space-between;
+  padding: 10px 20px;
+  align-items: center;
+}
+.nav2{
+  display: flex;
+  gap: 20px;
+}
